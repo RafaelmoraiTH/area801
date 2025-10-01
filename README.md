@@ -20,6 +20,7 @@ Todas as imagens estão otimizadas no formato WEBP para melhor performance, serv
 | **modos** | Modos de jogo padrão | `[nome do modo].webp` |
 | **modules** | Imagens de modos e módulos | `[nome do modo/module].webp` |
 | **npcs** | NPCs no Transformice | `[nome do npc].webp` |
+| **outros** | Imagens sem nenhuma categoria | `[nome fixo].webp` |
 | **social** | Widget de redes sociais | `[rede social].webp` |
 | **titulos** | Texto com todos os títulos | - |
 
